@@ -22,6 +22,9 @@ redes e tecnologias consideradas mais seguras, por armazena todos os dados em bl
 <p>Na blockchain, com os contratos inteligentes isso já é predefinido, ou seja, o sistema já preprograma para quando chegar aos 10 mil reais, transferir todo o valor para a amazônia e 
 encerrar o contrato. E os dados dessa transasão é pública, ou seja, você poderá visualizar para onde o dinheiro foi, o valor e quando. </p>
 <p>Sendo assim.... um sistema decentralizado (sem ninguém no meio) e menos vunerável a falhas.</p>
+<br/>
+<p>E a linguagem Solidity permite criar contratos inteligêntes.</p>
+<p>E dentro de tudo isso há diversos termos como Mineradores, Criptomoedas, NFTs.....</p>
 
 <p>A blockchain é complicada de ser entendida e explicada, por isso separei dois vídeos bacanas para compreender esse assunto tão atual:</p>
 <ul>
